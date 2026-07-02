@@ -17,7 +17,7 @@
 
 ### 方式一：直接运行 EXE（推荐）
 
-下载 `YouTube_Downloader.exe`，双击即可运行，无需安装 Python 和任何依赖。
+从 [Release 页面](https://github.com/fangbb-coder/Youtube_downloader/releases/download/v1.0.0/YouTube_Downloader.exe) 下载 `YouTube_Downloader.exe`，双击即可运行，无需安装 Python 和任何依赖。
 
 > 首次运行会解压内置的 deno 和 ffmpeg，启动稍慢，属于正常现象。
 
