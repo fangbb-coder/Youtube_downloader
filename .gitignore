@@ -8,7 +8,6 @@ __pycache__/
 *.webm
 *.flv
 build/
-dist/
 *.spec
 .venv/
 venv/
